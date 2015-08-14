@@ -791,7 +791,7 @@ a:Refactor Document Method::
 * $SymbolName$: TO DO$end$
 * @author: Callan Moore
 * @parameter: $MethodArgName$: TO DO
-* @return: $SymbolType$
+* @return: $SymbolType$: TO DO
 ********************/
 
 readme:
